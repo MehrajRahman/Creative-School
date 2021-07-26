@@ -1,0 +1,14 @@
+.cards{
+    text-align: left;
+    color: #171F4D;
+
+}
+.cards .cards-text{
+    font-size: 12px;
+    color: gray;
+}
+.mission h4{
+    width: 60%;
+    margin: 15px auto;
+    text-align: center;
+}

@@ -1,0 +1,23 @@
+.recent-project h1{
+    color: #171F4D;
+    text-align: center;
+    padding:5rem 0 ;
+    margin: 0;
+    background:linear-gradient(40deg,#7AB1FA, #fff);
+}
+.text-recent div{
+    width: 70%;
+    text-align: justify;
+}
+.text-recent1 div{
+    width: 70%;
+    text-align: justify;
+}
+.text-recent1 div h2, .text-recent div h2{
+    color: #171F4D;
+    text-align: left;
+    width: 100%;
+}
+.recent-project p{
+    color:#171F4D;
+}
